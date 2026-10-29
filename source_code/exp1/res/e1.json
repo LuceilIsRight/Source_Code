@@ -1,0 +1,19 @@
+{
+ "meanvec_final_1D": 0.579,
+ "meandist_final_1D": 24.839,
+ "meandist_theory_1D": 25.2313252202016,
+ "meanvec_final_2D": 0.13276295869024118,
+ "meandist_final_2D": 28.702877102082407,
+ "meandist_theory_2D": 28.024956081989643,
+ "meanvec_final_3D": 0.5935443070879277,
+ "meandist_final_3D": 29.145425799889676,
+ "meandist_theory_3D": 29.134624815788776,
+ "msd_slope_1D": 1.0038239430973823,
+ "msd_final_1D": 971.534,
+ "msd_slope_2D": 1.0458433633123971,
+ "msd_final_2D": 1041.8482117987674,
+ "msd_slope_3D": 1.0135487479011993,
+ "msd_final_3D": 1007.3303306628968,
+ "N": 1000,
+ "M": 2000
+}
