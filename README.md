@@ -5,16 +5,16 @@ Python source code for the Computational Physics II laboratory (eight numerical 
 Every script uses a fixed random seed, so all figures and numbers in the reports can be reproduced exactly.
 
 ## Contents
-Script	Topic	Main method
-exp1.py	Random walks in 1D, 2D and 3D	Unit-step walks; mean displacement, mean square displacement and histograms over 2000 walks
-exp2.py	Predator-prey (Lotka-Volterra) model	RK4; time series, phase portraits, parameter study, conserved-quantity check
-exp3.py	Area of a circle	Hit-or-miss Monte Carlo; N^(-1/2) error scaling
-exp4.py	Gaussian integrals in 1D, 2D, 3D	Uniform-sampling Monte Carlo compared with the analytic result
-exp5.py	Large-angle pendulum	RK4; phase space and period versus amplitude, compared with the elliptic-integral period
-exp6.py	Free fall: integrator comparison	Euler, position Verlet and velocity Verlet against the analytic solution
-exp7.py	Elastic collisions in a 2D box	Time-stepped hard-disc simulation; snapshots, kinetic energy, speed distribution
-exp8.py	3D molecular dynamics and simulated annealing	Lennard-Jones, velocity Verlet, inelastic collisions, Berendsen thermostat cooling in three steps
-cca2.py	1D diffusion equation (CCA-II)	Crank-Nicolson with a Thomas tridiagonal solver; validated against the exact Fourier series
+Script	Topic	Main method | 
+exp1.py	Random walks in 1D, 2D and 3D	Unit-step walks; mean displacement, mean square displacement and histograms over 2000 walks | 
+exp2.py	Predator-prey (Lotka-Volterra) model	RK4; time series, phase portraits, parameter study, conserved-quantity check | 
+exp3.py	Area of a circle	Hit-or-miss Monte Carlo; N^(-1/2) error scaling |
+exp4.py	Gaussian integrals in 1D, 2D, 3D	Uniform-sampling Monte Carlo compared with the analytic result | 
+exp5.py	Large-angle pendulum	RK4; phase space and period versus amplitude, compared with the elliptic-integral period | 
+exp6.py	Free fall: integrator comparison	Euler, position Verlet and velocity Verlet against the analytic solution | 
+exp7.py	Elastic collisions in a 2D box	Time-stepped hard-disc simulation; snapshots, kinetic energy, speed distribution | 
+exp8.py	3D molecular dynamics and simulated annealing	Lennard-Jones, velocity Verlet, inelastic collisions, Berendsen thermostat cooling in three steps | 
+cca2.py	1D diffusion equation (CCA-II)	Crank-Nicolson with a Thomas tridiagonal solver; validated against the exact Fourier series | 
 
 ## Report builders:
 
